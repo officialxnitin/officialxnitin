@@ -24,7 +24,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 
 - ❤️ Love to make people smile
 - ✨ Owner of [R.O.T.I](https://top.gg/bot/903690362114158632)
-- 💀 Currently working on Javascript
+- 💀 Currently learning Javascript
 - 🥂 Ethical Hacker and Pentester
 - 🪲 I find and heal bugs
 - 🕸️ Web Developer
@@ -57,7 +57,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 </p>
 <img src="https://imgur.com/1XznuTN.png" width="200" height="27">
 
-## 💎 My Skills
+## 💀 Languages & Tools
 
 ### Language
 
@@ -100,7 +100,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-## My Work
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p>
+<!--## My Work
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p> -->
 
 <!-- PsyChotic's Github readme -->
