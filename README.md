@@ -25,7 +25,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 - ❤️ Love to make people smile
 - ✨ Owner of [R.O.T.I](https://top.gg/bot/903690362114158632)
 - 💀 Currently learning Javascript
-- 🥂 Ethical Hacker and Pentester
+<!--- 🥂 Ethical Hacker and Pentester-->
 - 🪲 I find and heal bugs
 - 🕸️ Web Developer
 
@@ -93,14 +93,14 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<!--![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)-->
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### CMS
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<!--## My Work
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p> -->
+## My Work
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p>
 
 <!-- PsyChotic's Github readme -->
