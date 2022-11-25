@@ -56,7 +56,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 </p>
 <img src="https://imgur.com/1XznuTN.png" width="200" height="27">
 
-## 💀 Languages & Tools
+<!-- ## 💀 Languages & Tools
 
 ### Language
 
@@ -93,13 +93,13 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)-->
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<!--![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### CMS
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## My Work
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=officialxnitin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PsyChotic" /></p> -->
 
 <!-- PsyChotic's Github readme -->
