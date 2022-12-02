@@ -54,7 +54,7 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 <a href="https://instagram.com/officialxnitin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialxnitin" height="30" width="40" /></a>
  <a href="https://www.youtube.com/c/mrpsychotic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kdcdcd" height="30" width="40" /></a>
 </p>
-<img src="https://imgur.com/1XznuTN.png" width="200" height="27">
+<!-- <img src="https://imgur.com/1XznuTN.png" width="200" height="27"> -->
 
 <!-- ## 💀 Languages & Tools
 
