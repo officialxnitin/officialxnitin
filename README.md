@@ -40,11 +40,11 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
   </p>
 </div>
 <br/>
-<div>
+<!--<div>
  <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=officialxnitin&custom_title=PsyChotic's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="PsyChotic"  />
   </p>
- </div>
+ </div> -->
   <hr/>
   <br/>
 
