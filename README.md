@@ -5,7 +5,7 @@
 
 Hey there 👋,
 
-It's me PsyChotic. I am a technology enthusiast who love to break systems and code others mind. I am a content creator on [YouTube](https://www.youtube.com/c/MrPsyChotic/) and I create blog posts and videos mainly about cyber security and web technologies. I have a passion for learning and sharing my knowledge with others ✨
+It's me PsyChotic. I am a technology enthusiast who love to break systems and code their heart out. I am a content creator on [YouTube](https://www.youtube.com/c/MrPsyChotic/) and I create blog posts and videos mainly about cyber security and web technologies. I have a passion for learning and sharing my knowledge with others ✨
 
 ---
  
