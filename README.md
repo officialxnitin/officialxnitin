@@ -30,10 +30,10 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 
 ## :trophy: My Github Stats
 <div>
-  <p align="center">
+  <!--<p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=officialxnitin&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=officialxnitin&count_private=true&show_icons=true&theme=tokyonight&count-private=true&v=2" />
-</a>
+</a> -->
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=officialxnitin&theme=algolia">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialxnitin&theme=algolia&count-private=true&v=2" />
 </a>
