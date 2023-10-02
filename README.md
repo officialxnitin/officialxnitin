@@ -23,9 +23,8 @@ It's me PsyChotic. I am a technology enthusiast who love to break systems and co
 ## :eye: About Me
 
 - ❤️ Love to make people smile
-- ✨ Owner of [R.O.T.I](https://top.gg/bot/903690362114158632)
-- 💀 Currently learning Networking<!--- 🥂 Ethical Hacker and Pentester-->
-- 🪲 I find and heal bugs
+- 🥂 Cyber Security Enthusiast
+- 💀 I find and heal bugs
 - 🕸️ Web Developer
 
 ## :trophy: My Github Stats
